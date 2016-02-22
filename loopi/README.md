@@ -1,7 +1,7 @@
 Loopi
 =====
 
-A graphing tool for the Loop Energy Monitor. Requires [loop-pi.js](https://github.com/marcosscriven/loop)
+A graphing tool for the Loop Energy Monitor. Requires [loop.js](https://github.com/marcosscriven/loop)
 and gawk (not mawk).
 
 Currently compatible with:
